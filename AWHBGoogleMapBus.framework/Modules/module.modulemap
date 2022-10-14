@@ -1,0 +1,6 @@
+framework module AWHBGoogleMapBus {
+  umbrella header "AWHBGoogleMapBus.h"
+
+  export *
+  module * { export * }
+}
